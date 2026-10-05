@@ -2,6 +2,8 @@
 
 **Fullstack developer · Nairobi, Kenya **
 
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Healthtech+Builder;Medical+Lab+Scientist)
+
 I build fast, reliable web products, with a focus on healthtech. I run a medical laboratory department, so I understand LIS, analyzers and clinical workflows from the inside. By night I turn that knowledge into software that fits how labs actually work.
 
 ## What I'm Working On
@@ -9,8 +11,13 @@ I build fast, reliable web products, with a focus on healthtech. I run a medical
 - 🧪 **Reagent tracker**: inventory and usage tracking for lab environments
 - 🧾 **Invoicing and storefront platform** for a medical services provider
 - 🌍 **Client and volunteer builds** for Kenyan businesses and organisations
-- 🐳 **DevOps fundamentals**: Linux, Docker, nginx and CI/CD
+  
 
+## Currently
+- 🔭 Building: reagent LIS MVP
+- 📚 Learning: TypeScript, system design ,🐳 **DevOps fundamentals**: Linux, Docker, nginx and CI/CD
+- 🤝 Open to: healthtech and lab software collaborations
+- 💬 Ask me about: LIS, analyzers, clinical workflows, Prisma, Node ,Express , Postgres, React , web animations & creative development
 ## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -47,7 +54,7 @@ Am a licensed medical lab scientist.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SCIPIO666&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SCIPIO666&bg_color=0d1117&color=FF8C00&line=FF8C00&point=FFFFFF&hide_border=true)
 ---
 
 *Open to full-time developer opportunities and select freelance projects.*
