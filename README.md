@@ -58,8 +58,8 @@ Am a licensed medical lab scientist.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SCIPIO666&bg_color=0d1117&color=FF8C00&line=FF8C00&point=FFFFFF&hide_border=true&area=true&custom_title=Contribution%20Graph"
-    alt="Dev Scipio's GitHub Activity Graph"
+    src="https://github-readme-activity-graph-one-rose.vercel.app/graph?username=SCIPIO666"
+    alt="GitHub Activity Graph"
   />
 </p>
 
