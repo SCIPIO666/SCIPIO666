@@ -20,7 +20,7 @@ I build fast, reliable web products, with a focus on healthtech. I run a medical
 <tr>
 <td width="33%" valign="top">
 
-### 🧪 What I'm Working On
+##  What I'm Working On
 
 - **Reagent tracker**: inventory and usage tracking for lab environments
 - **Invoicing and storefront platform** for a medical services provider
@@ -29,17 +29,17 @@ I build fast, reliable web products, with a focus on healthtech. I run a medical
 </td>
 <td width="33%" valign="top">
 
-### 🎯 Currently
+##  Currently
 
-- 🔭 **Building:** lab LIS MVP
-- 📚 **Learning:** TypeScript, system design, 🐳 DevOps fundamentals: Linux, Docker, nginx and CI/CD
-- 🤝 **Open to:** healthtech and lab software collaborations
-- 💬 **Ask me about:** LIS, analyzers, clinical workflows, Prisma, Node, Express, Postgres, React, web animations & creative web development
+-  **Building:** lab LIS MVP
+-  **Learning:** TypeScript, system design, 🐳 DevOps fundamentals: Linux, Docker, nginx and CI/CD
+-  **Open to:** healthtech and lab software collaborations
+-  **Ask me about:** LIS, analyzers, clinical workflows, Prisma, Node, Express, Postgres, React, web animations & creative web development
 
 </td>
 <td width="33%" valign="top">
 
-### 💻 Tech Stack
+##  Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -68,29 +68,29 @@ I build fast, reliable web products, with a focus on healthtech. I run a medical
 <tr>
 <td width="33%" valign="top">
 
-### ❤️ Why Healthtech?
+## Why Healthtech?
 
 Am a licensed medical lab scientist.
 
 </td>
 <td width="33%" valign="top">
 
-### 🔗 Let's Connect
+## Let's Connect
 
-- 🌐 **Portfolio:** [scipioportfolio-two.vercel.app](https://scipioportfolio-two.vercel.app/)
-- 💼 **Freelance:** Zama Systems
-- 📧 **Email:** eaphoney@gmail.com
-- 🔗 **LinkedIn:** [in/scipio666](https://linkedin.com/in/scipio666)
+-  **Portfolio:** [scipioportfolio-two.vercel.app](https://scipioportfolio-two.vercel.app/)
+-  **Freelance:** Zama Systems
+-  **Email:** eaphoney@gmail.com
+-  **LinkedIn:** [in/scipio666](https://linkedin.com/in/scipio666)
 
 </td>
 <td width="33%" valign="top">
 
-### ⚡ Quick Bits
+## Quick Bits
 
-- 🌍 Based in Nairobi, Kenya
-- 🧬 Healthtech × Fullstack
-- 🚀 Open to full-time roles
-- 🤝 Select freelance projects
+-  Based in Nairobi, Kenya
+-  Healthtech × Fullstack
+-  Open to full-time roles
+-  Select freelance projects
 
 </td>
 </tr>
@@ -100,7 +100,7 @@ Am a licensed medical lab scientist.
 
 <div align="center">
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
 <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
@@ -115,6 +115,6 @@ Am a licensed medical lab scientist.
 
 <div align="center">
 
-⭐ *Open to full-time developer opportunities and select freelance projects.* ⭐
+ *Open to full-time developer opportunities and select freelance projects.* ⭐
 
 </div>
