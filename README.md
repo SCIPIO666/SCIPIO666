@@ -28,7 +28,7 @@ I build fast, reliable web products, with a focus on healthtech. I run a medical
 **Backend:** JWT auth with httpOnly cookies, layered architecture (model → service → controller → router)
 
 ## Why Healthtech?
-I work in a medical lab.
+Am a licensed medical lab scientist.
 
 ## Let's Connect
 
