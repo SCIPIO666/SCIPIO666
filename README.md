@@ -14,17 +14,18 @@ I build fast, reliable web products, with a focus on healthtech. I run a medical
 ## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Frontend:** TanStack Query, Zustand, React Hook Form, Zod, shadcn/ui
-**Backend:** JWT auth with httpOnly cookies, BullMQ background jobs, layered architecture (model → service → controller → router)
+**Backend:** JWT auth with httpOnly cookies, layered architecture (model → service → controller → router)
 
 ## Why Healthtech?
 I work in a medical lab.
@@ -35,12 +36,14 @@ I work in a medical lab.
 - 💼 Freelance: **Zama Systems**
 - 📧 Email: eaphoney@gmail.com
 - 🔗 LinkedIn: []
-
 ## GitHub Stats
 
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=your-username&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=your-username&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
----
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
 *Open to full-time developer opportunities and select freelance projects.*
