@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Dev Scipio 👋
 
-<!--
-**SCIPIO666/SCIPIO666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fullstack developer · Nairobi, Kenya **
 
-Here are some ideas to get you started:
+I build fast, reliable web products, with a focus on healthtech. I run a medical laboratory department, so I understand LIS, analyzers and clinical workflows from the inside. By night I turn that knowledge into software that fits how labs actually work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+
+- 🧪 **Reagent tracker**: inventory and usage tracking for lab environments
+- 🧾 **Invoicing and storefront platform** for a medical services provider
+- 🌍 **Client and volunteer builds** for Kenyan businesses and organisations
+- 🐳 **DevOps fundamentals**: Linux, Docker, nginx and CI/CD
+
+## Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Frontend:** TanStack Query, Zustand, React Hook Form, Zod, shadcn/ui
+**Backend:** JWT auth with httpOnly cookies, BullMQ background jobs, layered architecture (model → service → controller → router)
+
+## Why Healthtech?
+I work in a medical lab.
+
+## Let's Connect
+
+- 🌐 Portfolio: [your-portfolio-url]([https://scipioportfolio-two.vercel.app/])
+- 💼 Freelance: **Zama Systems**
+- 📧 Email: eaphoney@gmail.com
+- 🔗 LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+
+## GitHub Stats
+
+![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent)
+
+---
+
+*Open to full-time developer opportunities and select freelance projects.*
