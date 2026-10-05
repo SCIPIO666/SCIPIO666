@@ -9,7 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write      # This is required to push the SVG files back
+      contents: write
+      actions: read   # This is required to push the SVG files back
     steps:
       - uses: actions/checkout@v4
 
@@ -17,7 +18,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_border=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
