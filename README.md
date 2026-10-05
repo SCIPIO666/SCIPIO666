@@ -44,6 +44,9 @@ Am a licensed medical lab scientist.
   <img src="./profile/stats.svg" alt="GitHub Stats" />
   <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SCIPIO666&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ---
 
