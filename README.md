@@ -38,9 +38,10 @@ Am a licensed medical lab scientist.
 - 🔗 LinkedIn: []
 ## GitHub Stats
 
-![Dev's GitHub stats](https://github-readme-stats.shion.dev/api?username=your-username&show_icons=true&theme=transparent)
-![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=your-username&layout=compact&theme=transparent)
-
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
 ---
 
 *Open to full-time developer opportunities and select freelance projects.*
