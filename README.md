@@ -1,6 +1,6 @@
 # Hi, I'm Dev Scipio 👋
 
-**Fullstack developer · Nairobi, Kenya **
+Fullstack developer · Nairobi, Kenya 
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Healthtech+Builder;Medical+Lab+Scientist)
 
