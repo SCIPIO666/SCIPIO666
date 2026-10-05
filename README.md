@@ -40,4 +40,7 @@ I work in a medical lab.
 
 ![Dev's GitHub stats](https://github-readme-stats.shion.dev/api?username=your-username&show_icons=true&theme=transparent)
 ![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=your-username&layout=compact&theme=transparent)
+
+---
+
 *Open to full-time developer opportunities and select freelance projects.*
