@@ -54,7 +54,9 @@ Am a licensed medical lab scientist.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SCIPIO666&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
-![Activity Graph](https://github-readme-activity-graph-one-rose.vercel.app/graph?username=SCIPIO666&bg_color=0d1117&color=FF8C00&line=FF8C00&point=FFFFFF&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph-one-rose.vercel.app/graph?username=SCIPIO666&bg_color=0d1117&color=FF8C00&line=FF8C00&point=FFFFFF&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+</p>
 ---
 
 *Open to full-time developer opportunities and select freelance projects.*
