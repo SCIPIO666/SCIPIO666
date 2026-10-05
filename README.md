@@ -31,7 +31,7 @@ I work in a medical lab.
 
 ## Let's Connect
 
-- 🌐 Portfolio: [your-portfolio-url]([https://scipioportfolio-two.vercel.app/])
+- 🌐 Portfolio: [https://scipioportfolio-two.vercel.app/]
 - 💼 Freelance: **Zama Systems**
 - 📧 Email: eaphoney@gmail.com
 - 🔗 LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
