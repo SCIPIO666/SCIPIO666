@@ -36,12 +36,15 @@ Am a licensed medical lab scientist.
 - 💼 Freelance: **Zama Systems**
 - 📧 Email: eaphoney@gmail.com
 - 🔗 LinkedIn: []
+
+
 ## GitHub Stats
 
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub Stats" />
   <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
+
 ---
 
 *Open to full-time developer opportunities and select freelance projects.*
