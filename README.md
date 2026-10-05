@@ -17,7 +17,7 @@ I build fast, reliable web products, with a focus on healthtech. I run a medical
 - 🔭 Building: reagent LIS MVP
 - 📚 Learning: TypeScript, system design ,🐳 **DevOps fundamentals**: Linux, Docker, nginx and CI/CD
 - 🤝 Open to: healthtech and lab software collaborations
-- 💬 Ask me about: LIS, analyzers, clinical workflows, Prisma, Node ,Express , Postgres, React , web animations & creative development
+- 💬 Ask me about: LIS, analyzers, clinical workflows, Prisma, Node ,Express , Postgres, React , web animations & creative web development
 ## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
