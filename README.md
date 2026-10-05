@@ -38,12 +38,6 @@ I work in a medical lab.
 - 🔗 LinkedIn: []
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=your-username&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=your-username&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
+![Dev's GitHub stats](https://github-readme-stats.shion.dev/api?username=your-username&show_icons=true&theme=transparent)
+![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=your-username&layout=compact&theme=transparent)
 *Open to full-time developer opportunities and select freelance projects.*
