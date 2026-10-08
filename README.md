@@ -115,6 +115,6 @@ Am a licensed medical lab scientist.
 
 <div align="center">
 
- *Open to full-time developer opportunities and select freelance projects.* ⭐
+ *Open to full-time developer opportunities and select freelance projects.* 
 
 </div>
