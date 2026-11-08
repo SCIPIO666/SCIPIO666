@@ -1,14 +1,10 @@
-<div align="center">
+ <div align="center">
 
-# Hi, I'm Dev Scipio <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" />
+# Hi, I'm Dev Scipio 👋
 
 **Fullstack Developer · Nairobi, Kenya**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Healthtech+Builder;Medical+Lab+Scientist" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
 
 I build fast, reliable web products, with a focus on healthtech. I run a medical laboratory department, so I understand LIS, analyzers and clinical workflows from the inside. By night I turn that knowledge into software that fits how labs actually work.
 
@@ -16,30 +12,52 @@ I build fast, reliable web products, with a focus on healthtech. I run a medical
 
 ---
 
+## 🚀 Live Projects & Builds
+
+A selection of websites, applications and full-stack systems I've designed and developed.
+
+### Web Applications & Websites
+
+| Project | Description | Live Demo |
+|---|---|---|
+| **Gym Website** | Fitness / gym website with a modern web experience. | [View Live ↗](https://gymwebsite-tawny.vercel.app/) |
+| **Digital Agency** | Creative digital agency website. | [View Live ↗](https://digital-agency-tau-nine.vercel.app/) |
+| **Scipio Portfolio** | Personal developer portfolio. | [View Live ↗](https://scipioportfolio-two.vercel.app/) |
+| **Affini Blue** | Web application / website. | [View Live ↗](https://affini-blue.vercel.app/) |
+
+### Full-Stack Applications
+
+| Project | Description | Live Application | API Documentation |
+|---|---|---|---|
+| **Spring Hill Medicare** | Medical supplies business invoicing and document management system. | [Client ↗](https://spring-hill-medicare-limited.onrender.com) | [API Docs ↗](https://spring-hill-api.onrender.com/api/v1/docs) |
+| **AICN** | Full-stack client application. | [Client ↗](https://aicn-client.onrender.com) | [API Docs ↗](https://aicn-server.onrender.com/api/va/docs) |
+
+---
+
 <table>
 <tr>
 <td width="33%" valign="top">
 
-##  What I'm Working On
+## What I'm Working On
 
-- **Reagent tracker**: inventory and usage tracking for lab environments
-- **Invoicing and storefront platform** for a medical services provider
-- **Client and volunteer builds** for Kenyan businesses and organisations
-
-</td>
-<td width="33%" valign="top">
-
-##  Currently
-
--  **Building:** lab LIS MVP
--  **Learning:** TypeScript, system design, 🐳 DevOps fundamentals: Linux, Docker, nginx and CI/CD
--  **Open to:** healthtech and lab software collaborations
--  **Ask me about:** LIS, analyzers, clinical workflows, Prisma, Node, Express, Postgres, React, web animations & creative web development
+- **Reagent tracker**: inventory and usage tracking for lab environments.
+- **Invoicing and storefront platform** for a medical services provider.
+- **Client and volunteer builds** for Kenyan businesses and organisations.
 
 </td>
 <td width="33%" valign="top">
 
-##  Tech Stack
+## Currently
+
+- **Building:** Lab LIS MVP.
+- **Learning:** TypeScript, system design, 🐳 DevOps fundamentals: Linux, Docker, nginx and CI/CD.
+- **Open to:** Healthtech and lab software collaborations.
+- **Ask me about:** LIS, analyzers, clinical workflows, Prisma, Node, Express, Postgres, React, web animations & creative web development.
+
+</td>
+<td width="33%" valign="top">
+
+## Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -54,9 +72,9 @@ I build fast, reliable web products, with a focus on healthtech. I run a medical
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-**Frontend:** TanStack Query, Zustand, React Hook Form, Zod, shadcn/ui
+**Frontend:** TanStack Query, Zustand, React Hook Form, Zod, shadcn/ui.
 
-**Backend:** JWT auth with httpOnly cookies, layered architecture (model → service → controller → router)
+**Backend:** JWT auth with httpOnly cookies, layered architecture (model → service → controller → router).
 
 </td>
 </tr>
@@ -70,27 +88,27 @@ I build fast, reliable web products, with a focus on healthtech. I run a medical
 
 ## Why Healthtech?
 
-Am a licensed medical lab scientist.
+I'm a licensed medical laboratory scientist. My experience working in clinical laboratories gives me firsthand insight into the problems I'm trying to solve with software.
 
 </td>
 <td width="33%" valign="top">
 
 ## Let's Connect
 
--  **Portfolio:** [scipioportfolio-two.vercel.app](https://scipioportfolio-two.vercel.app/)
--  **Freelance:** Zama Systems
--  **Email:** eaphoney@gmail.com
--  **LinkedIn:** [in/scipio666](https://linkedin.com/in/scipio666)
+- **Portfolio:** [scipioportfolio-two.vercel.app](https://scipioportfolio-two.vercel.app/)
+- **Freelance:** Zama Systems
+- **Email:** eaphoney@gmail.com
+- **LinkedIn:** [in/scipio666](https://linkedin.com/in/scipio666)
 
 </td>
 <td width="33%" valign="top">
 
 ## Quick Bits
 
--  Based in Nairobi, Kenya
--  Healthtech × Fullstack
--  Open to full-time roles
--  Select freelance projects
+- Based in Nairobi, Kenya.
+- Healthtech × Fullstack.
+- Open to full-time roles.
+- Select freelance projects.
 
 </td>
 </tr>
@@ -100,7 +118,7 @@ Am a licensed medical lab scientist.
 
 <div align="center">
 
-###  GitHub Stats
+### GitHub Stats
 
 <img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
 <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
@@ -115,6 +133,6 @@ Am a licensed medical lab scientist.
 
 <div align="center">
 
- *Open to full-time developer opportunities and freelance projects.* 
+*Open to full-time developer opportunities and freelance projects.*
 
 </div>
