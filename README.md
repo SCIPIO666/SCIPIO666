@@ -12,7 +12,7 @@ I build fast, reliable web products, with a focus on healthtech. I run a medical
 
 ---
 
-## 🚀 Live Projects & Builds
+## Live Projects 
 
 A selection of websites, applications and full-stack systems I've designed and developed.
 
@@ -20,7 +20,7 @@ A selection of websites, applications and full-stack systems I've designed and d
 
 | Project | Description | Live Demo |
 |---|---|---|
-| **Gym Website** | Fitness / gym website with a modern web experience. | [View Live ↗](https://gymwebsite-tawny.vercel.app/) |
+| **Gym Website** | Fitness / gym website with a modern web experience. | [View Live ↗](https://gym-website-amber-gamma.vercel.app/) |
 | **Digital Agency** | Creative digital agency website. | [View Live ↗](https://digital-agency-tau-nine.vercel.app/) |
 | **Scipio Portfolio** | Personal developer portfolio. | [View Live ↗](https://scipioportfolio-two.vercel.app/) |
 | **Affini Blue** | Web application / website. | [View Live ↗](https://affini-blue.vercel.app/) |
