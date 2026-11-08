@@ -6,31 +6,44 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Healthtech+Builder;Medical+Lab+Scientist" alt="Typing SVG" />
 
-I build fast, reliable web products, with a focus on healthtech. I run a medical laboratory department, so I understand LIS, analyzers and clinical workflows from the inside. By night I turn that knowledge into software that fits how labs actually work.
+I build fast, reliable web products, with a focus on healthtech. I'm a medical laboratory scientist, so I understand LIS, analyzers and clinical workflows from the inside.
+
+I also have a compulsion for automating repetitive tasks. If I have to do something twice, I start wondering whether I can build software to eliminate it entirely.
 
 </div>
 
 ---
 
-## Live Projects 
+## 🚀 Live Projects
 
 A selection of websites, applications and full-stack systems I've designed and developed.
 
 ### Web Applications & Websites
 
-| Project | Description | Live Demo |
-|---|---|---|
-| **Gym Website** | Fitness / gym website with a modern web experience. | [View Live ↗](https://gym-website-amber-gamma.vercel.app/) |
-| **Digital Agency** | Creative digital agency website. | [View Live ↗](https://digital-agency-tau-nine.vercel.app/) |
-| **Scipio Portfolio** | Personal developer portfolio. | [View Live ↗](https://scipioportfolio-two.vercel.app/) |
-| **Affini Blue** | Web application / website. | [View Live ↗](https://affini-blue.vercel.app/) |
-
-### Full-Stack Applications
-
-| Project | Description | Live Application | API Documentation |
+| Project | Description | Live Demo | Source Code |
 |---|---|---|---|
-| **Spring Hill Medicare** | Medical supplies business invoicing and document management system. | [Client ↗](https://spring-hill-medicare-limited.onrender.com) | [API Docs ↗](https://spring-hill-api.onrender.com/api/v1/docs) |
-| **AICN** | Full-stack client application. | [Client ↗](https://aicn-client.onrender.com) | [API Docs ↗](https://aicn-server.onrender.com/api/va/docs) |
+| **The Legends Fitness** | Modern gym website featuring classes, coaches, memberships and bookings. | [Live ↗](https://gym-website-amber-gamma.vercel.app/) | [GitHub ↗](https://github.com/SCIPIO666/gym_website) |
+| **NuevaZen** | Digital agency website showcasing branding, design, marketing, web development and automation services. | [Live ↗](https://digital-agency-tau-nine.vercel.app/) | [GitHub ↗](https://github.com/SCIPIO666/digital_agency) |
+| **Revival Pilates** | Premium Pilates studio website with classes, instructor profiles, pricing and bookings. | [Live ↗](https://pilates-website-nu.vercel.app/) | [GitHub ↗](https://github.com/SCIPIO666/pilates_website) |
+| **Affini Consult** | Coastal property consultancy website featuring property sourcing, assessment and acquisition services. | [Live ↗](https://affini-blue.vercel.app/) | [GitHub ↗](https://github.com/SCIPIO666/affini) |
+
+### Full-Stack & Business Applications
+
+| Project | Description | Live Application |
+|---|---|---|
+| **Spring Hill Medicare** | Medical and laboratory supplies platform, with a product catalogue and business invoicing system. | [Live ↗](https://spring-hill-medicare-limited.onrender.com/) |
+
+### Personal Portfolio
+
+**[Scipio Portfolio ↗](https://scipioportfolio-two.vercel.app/)**
+
+My personal portfolio showcasing my development work, interests and approach to building software.
+
+### Additional Source Projects
+
+| Project | Repository |
+|---|---|
+| **Charity for a Cause** | [GitHub ↗](https://github.com/SCIPIO666/charity-4-a-course) |
 
 ---
 
@@ -40,19 +53,20 @@ A selection of websites, applications and full-stack systems I've designed and d
 
 ## What I'm Working On
 
-- **Reagent tracker**: inventory and usage tracking for lab environments.
-- **Invoicing and storefront platform** for a medical services provider.
-- **Client and volunteer builds** for Kenyan businesses and organisations.
+- **Reagent tracker:** inventory and usage tracking for laboratory environments.
+- **Spring Hill:** invoicing and storefront platform.
+- **Lab LIS MVP:** exploring laboratory information systems.
+- Client and volunteer builds for Kenyan businesses and organisations.
 
 </td>
 <td width="33%" valign="top">
 
 ## Currently
 
-- **Building:** Lab LIS MVP.
-- **Learning:** TypeScript, system design, 🐳 DevOps fundamentals: Linux, Docker, nginx and CI/CD.
-- **Open to:** Healthtech and lab software collaborations.
-- **Ask me about:** LIS, analyzers, clinical workflows, Prisma, Node, Express, Postgres, React, web animations & creative web development.
+- **Building:** Full-stack applications and healthtech solutions.
+- **Learning:** TypeScript, system design, Linux, Docker, nginx and CI/CD.
+- **Open to:** Healthtech and software engineering collaborations.
+- **Ask me about:** LIS, analyzers, clinical workflows, Prisma, Node, Express, PostgreSQL, React and creative web development.
 
 </td>
 <td width="33%" valign="top">
@@ -74,7 +88,7 @@ A selection of websites, applications and full-stack systems I've designed and d
 
 **Frontend:** TanStack Query, Zustand, React Hook Form, Zod, shadcn/ui.
 
-**Backend:** JWT auth with httpOnly cookies, layered architecture (model → service → controller → router).
+**Backend:** JWT authentication, httpOnly cookies, layered architecture (model → service → controller → router).
 
 </td>
 </tr>
@@ -95,7 +109,7 @@ I'm a licensed medical laboratory scientist. My experience working in clinical l
 
 ## Let's Connect
 
-- **Portfolio:** [scipioportfolio-two.vercel.app](https://scipioportfolio-two.vercel.app/)
+- **Portfolio:** [Scipio Portfolio](https://scipioportfolio-two.vercel.app/)
 - **Freelance:** Zama Systems
 - **Email:** eaphoney@gmail.com
 - **LinkedIn:** [in/scipio666](https://linkedin.com/in/scipio666)
